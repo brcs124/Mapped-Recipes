@@ -1,0 +1,24 @@
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: none;
+}
+
+.title,
+h1{
+    text-align: center;
+    font-size: 3vw;
+}
+
+a{
+    color: blue;
+}
+
+p,a,li{
+font-size: 15px;
+font-weight: lighter;
+}
+
+img{
+    width: 20%;
+    border-radius: 5px;
+}
